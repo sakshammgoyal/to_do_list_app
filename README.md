@@ -1,4 +1,4 @@
-# to_do_list_app
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd765c3c-2666-4324-b44e-a303436b61de" /># to_do_list_app
 A simple To-Do List app built with Python and Tkinter. Add, delete, and save tasks with a clean GUI.
 
 # 📝 To-Do List App (Python + Tkinter)
@@ -24,10 +24,9 @@ This app allows you to add, delete, and save tasks easily. Tasks are stored in a
 
 ---
 
-## 📸 Screenshot
-> *(Add a screenshot of your app here after running it)*  
-Example:  
-![To-Do List App Screenshot](screenshot.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/486fbd73-14f6-405f-9ea3-03f0856388c9" />
+
+
 
 ---
 
